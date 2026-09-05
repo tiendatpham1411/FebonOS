@@ -1,3 +1,4 @@
-FebonOS Beta 1.0.0|1QuAkBxDmTjRv6pCXp15QxUZ1sB-8ZK8P
-FebonOS Beta 1.0.1|1lZK4LS44r0H3waZbaederHIfJCJNZyXY
-FebonOS Beta 1.0.2|
+FebonOS Beta 1.0|1QuAkBxDmTjRv6pCXp15QxUZ1sB-8ZK8P
+FebonOS Beta 1.1|1lZK4LS44r0H3waZbaederHIfJCJNZyXY
+FebonOS Beta 1.2|1FA7eKy08msKingR7vixc1F7kCSwxDQTL
+FebonOS 1|1FA7eKy08msKingR7vixc1F7kCSwxDQTL
