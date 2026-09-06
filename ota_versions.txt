@@ -1,5 +1,5 @@
-Beta|FebonOS Beta 1.0|1QuAkBxDmTjRv6pCXp15QxUZ1sB-8ZK8P
-Beta|FebonOS Beta 1.1|1lZK4LS44r0H3waZbaederHIfJCJNZyXY
-Beta|FebonOS Beta 1.2|1FA7eKy08msKingR7vixc1F7kCSwxDQTL
+Beta|FebonOS 2 Beta 1|1QuAkBxDmTjRv6pCXp15QxUZ1sB-8ZK8P
+Beta|FebonOS 2 Beta 2|1lZK4LS44r0H3waZbaederHIfJCJNZyXY
+Beta|FebonOS 2 Beta 3|1FA7eKy08msKingR7vixc1F7kCSwxDQTL
 Stable|FebonOS 1.0|1FA7eKy08msKingR7vixc1F7kCSwxDQTL
 Stable|FebonOS 1.1|1lZK4LS44r0H3waZbaederHIfJCJNZyXY
